@@ -1,5 +1,5 @@
 import React from 'react';
-import '../App.css';
+import './Login.css';
 import request from '../helper/request'
 
 import { Form, Icon, Input, Button, Checkbox } from 'antd';
